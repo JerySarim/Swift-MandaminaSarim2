@@ -9,6 +9,6 @@ import Foundation
 
 class Traceur {
     public static func mikozy() -> String {
-        return "Izaho mikory hoe: Sura Sura !"
+        return "Izaho milaza hoe: Allo, misy mihaino ve !"
     }
 }
